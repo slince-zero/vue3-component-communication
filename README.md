@@ -392,7 +392,7 @@ let todos = ref([
 </script>
 <style scoped>
 </style>
-`
+```
 
 
 ## 尤大建议不要省略vue扩展名
